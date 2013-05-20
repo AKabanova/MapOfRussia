@@ -1,0 +1,18 @@
+﻿
+#tooltip
+{
+    background:rgba(218, 224, 243, 0.67);
+    border:1px solid #666666;
+    color:#070c64;
+    font:menu message-box;
+    margin:10px;
+    padding:3px 5px;
+    position:absolute;
+    visibility:hidden;
+}
+
+h1
+{
+   	font: normal bold 44px century schoolbook;
+	color: #f00;
+}
